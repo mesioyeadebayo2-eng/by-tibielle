@@ -132,5 +132,5 @@ document.querySelectorAll('.gallery-item').forEach(item => {
   }
 });
 
-console.log('%c💅 Tibielle Studios', 'font-size:18px;color:#c8344a;font-weight:bold;');
+console.log('%c💅 BY TIBIELLE', 'font-size:18px;color:#c8344a;font-weight:bold;');
 console.log('%cNail & Lash Studio, Abuja', 'font-size:12px;color:#7a5c8a;');
